@@ -1,1 +1,1 @@
-# Exploring-CIFAR-10-w-MLP-CNN
+# Exploring-CIFAR-10_CNN
